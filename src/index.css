@@ -1,6 +1,10 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+
+@theme {
+  --color-stellar-blue: #3e1bdb;
+  --color-stellar-purple: #7b2ff7;
+  --color-stellar-dark: #0a0a1a;
+}
 
 @layer base {
   body {
