@@ -1,6 +1,6 @@
 # 🚀 StellarPoll – On-Chain Voting dApp (Level 3)
 
-**🔗 Web Link (Live Demo):** [Insert Live App URL Here]
+**🔗 Web Link (Live Demo):** [https://Manishp2025.github.io/stellar-live-poll-app/](https://Manishp2025.github.io/stellar-live-poll-app/)
 **📜 Smart Contract Address:** `CBFHZASNWKBVKXRXF7GZTZMQNYBVUQHAHVLMZYLBFXPJUHQMZ3EJMDTX`
 
 A premium, end-to-end decentralized polling application built on the **Stellar Soroban** smart contract platform. This project demonstrates a complete mini-dApp with advanced UX features, smart contract integration, caching, and comprehensive testing.
