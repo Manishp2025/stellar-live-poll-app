@@ -193,8 +193,4 @@ The contract is deployed to the **Stellar Testnet**.
 | `feat: caching and test suite` | `cacheService`, `pollUtils`, 9 passing tests |
 | `feat: premium UI and finalize` | Glassmorphism UI, animated bars, tx overlay, SEO |
 
----
-
-## 📄 License
-
-MIT
+--
